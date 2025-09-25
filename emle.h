@@ -2,7 +2,7 @@
  * emle_refactored.h
  *
  * Header file for refactored Kalman filter functions from emle.c and their direct
- * dependencies from talg.c and matrix.c, including structures from emle.h.
+ * dependencies from talg.c and matrix.c, including structures from emle.h. test
  */
 
 #ifndef EMLE_REFACTORED_H_
